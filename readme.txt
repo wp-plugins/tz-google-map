@@ -1,6 +1,6 @@
 === TZ Google Map ===
 Contributors: tuyennv, templaza
-Donate link: https://www.templaza.com/tz_membership/downloadinfo/158-plg-tz-googlemap-wordpress.html
+Donate link: http://www.templaza.com/tz-google-map-widget/575.html
 Tags: widget, googlemap, color map
 Requires at least: 3.0.1
 Tested up to: 4.2.2
